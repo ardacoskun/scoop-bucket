@@ -1,0 +1,22 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ardacoskun/codehop/releases/download/v0.1.2/codehop_0.1.2_windows_amd64.zip",
+            "bin": [
+                "codehop.exe"
+            ],
+            "hash": "c1bed1e5e980474ecdf8280ffa3b648b70014c3ac72532367f3e08e365572b52"
+        },
+        "arm64": {
+            "url": "https://github.com/ardacoskun/codehop/releases/download/v0.1.2/codehop_0.1.2_windows_arm64.zip",
+            "bin": [
+                "codehop.exe"
+            ],
+            "hash": "f774c4a0d90f20dd1b4111d284db87cf8f4bc7c5c09a43caeacee47a337b7e2a"
+        }
+    },
+    "homepage": "https://github.com/ardacoskun/codehop",
+    "license": "MIT",
+    "description": "Open any project by name from the terminal"
+}
