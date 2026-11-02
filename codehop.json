@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.2.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ardacoskun/codehop/releases/download/v0.2.0/codehop_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/ardacoskun/codehop/releases/download/v0.2.1/codehop_0.2.1_windows_amd64.zip",
             "bin": [
                 "codehop.exe"
             ],
-            "hash": "10da08b67a2c78c155923a5868fae3642e394adcd7e7c1d733c58d7f34065bbe"
+            "hash": "d93855361a045cae55baae052607abca621782a32def08802f28e2634fa1aab2"
         },
         "arm64": {
-            "url": "https://github.com/ardacoskun/codehop/releases/download/v0.2.0/codehop_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/ardacoskun/codehop/releases/download/v0.2.1/codehop_0.2.1_windows_arm64.zip",
             "bin": [
                 "codehop.exe"
             ],
-            "hash": "34a641ccceb12cb5877167d58ec850a05b86732a48f36b9c89fc01c0dd92d5e4"
+            "hash": "96f93fd0921dde6bc45b93332cac35004816454d98d595c9f40093ecd5756cbd"
         }
     },
     "homepage": "https://github.com/ardacoskun/codehop",
